@@ -14,6 +14,10 @@ Developer’s, QA’s. Who develops the product. Scrum development team decides the 
 effort estimation to complete a Product Backlog Item
 
 
+Hi i made change
+
+
+
 
 
 
