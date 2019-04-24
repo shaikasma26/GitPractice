@@ -1,0 +1,21 @@
+
+The Software Development Life Cycle (SDLC) is a terminology used to explain how software is delivered to a customer in a series of steps.
+The main aim of SDLC is to Produce a high quality that meets customer requirements(expectations),reaches completion with in time and cost estimates.
+The life cycle defines a methodology for improving the quality of software and the overall development process.
+
+ragav paul,
+naveenlabs
+
+
+
+Developer’s, QA’s. Who develops the product. Scrum development team decides the effort estimation to complete a Product Backlog ItemDeveloper’s, QA’s. Who develops the product. Scrum development team decides the 
+
+
+effort estimation to complete a Product Backlog Item
+
+
+
+
+
+
+us1-3,us2-4,us3-3=10
